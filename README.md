@@ -1,2 +1,3 @@
 # colorize-greyscale-image
-Use neural networks to colorize greyscale images
+CS4100 Course Project
+Use CNN, GAN models to colorize greyscale images
